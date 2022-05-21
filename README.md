@@ -1,4 +1,4 @@
-#Ecommerce Webstie Developed With The Mern Stack
+# Ecommerce Webstie Developed With The Mern Stack
 
 # Install Dependencies
 
